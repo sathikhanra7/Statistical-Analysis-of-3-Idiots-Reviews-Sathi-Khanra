@@ -142,7 +142,7 @@ The findings demonstrate that *3 Idiots* received overwhelmingly positive audien
 ## Author
 
 **Sathi Khanra**  
-B.Sc. Computer Science (AI & Machine Learning)
+ Computer Science (AI & Machine Learning)
 
 
 ```
